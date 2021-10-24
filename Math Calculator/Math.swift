@@ -103,5 +103,5 @@ func sum (num1:Double, num2:Double) {
         
         print("Root of number is: \(resultRoot),\(resultOst)")
     
-}
+     }
 }
